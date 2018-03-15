@@ -1,4 +1,4 @@
-## Various scripts for simple automatic data preprocessing in EEGlab for multiple datasets
+## Various of simple scripts for automatic data preprocessing in EEGlab for multiple datasets
 
 **NOTE: All scripts are created for a particular experiment, but can be extended later. These are work files which are, in most cases, working only for a specified datasets. More comments and further explanation will be given soon.**
 
